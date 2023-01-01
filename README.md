@@ -19,3 +19,9 @@ You can click the Preview link to take a look at your changes.
     <img align="right" src="https://count.getloli.com/get/@:liuwei2016" alt="liuwei" />
   </div>
 </a>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+passionate+web+developer+based+in+ChangSha.++%F0%9F%91%8B)
+
+##### GitHub status
+
+![](https://activity-graph.herokuapp.com/graph?username=liuwei2016&theme=github)
