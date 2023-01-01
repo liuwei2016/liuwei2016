@@ -16,6 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://github.com/wangrongding">
   <div align="right" >
-    <img align="right" src="https://count.getloli.com/get/@:wangrongding" alt="汪荣顶" />
+    <img align="right" src="https://count.getloli.com/get/@:liuwei2016" alt="liuwei" />
   </div>
 </a>
